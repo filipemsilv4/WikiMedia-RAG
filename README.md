@@ -23,4 +23,4 @@ RAG using Google Text Embeddings and Gemini Flash
       
 - Place the XML file in ```data/comics.xml```
   
-- Run the program with ```python rag.py```, wait for the Embedding process to finish and then type a question.
+- Run the program with ```python rag.py```.
