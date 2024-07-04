@@ -1,4 +1,4 @@
-# RAG_test EN:
+# WikiMedia RAG:
 RAG using Google Text Embeddings and Gemini Flash
 
 ## How to use:
